@@ -1,0 +1,9 @@
+Acme Booking FAQ (fictional sample document)
+
+What is a PNR? A PNR (Passenger Name Record) is the booking reference, usually six letters and digits, that identifies your reservation. You will find it in your confirmation email.
+
+How do I change a booking? Open the trip in the self-service portal, choose "modify", and pick a new date or time. A flexible fare can be changed for free; a standard fare may charge a difference and a fee.
+
+Can I add a checked bag later? Yes. Adding a bag online before departure is cheaper than at the airport. The allowance depends on the fare family shown on your ticket.
+
+Who do I contact for a problem during the trip? Use the 24/7 traveller support line printed on your itinerary. For anything non-urgent, the self-service portal is faster than email.

@@ -1,0 +1,9 @@
+Acme Travel Policy (fictional sample document)
+
+Flights: economy class is the default for all flights under 6 hours. Premium economy is allowed for flights of 6 hours or more. Business class requires director approval and is reserved for flights over 9 hours.
+
+Trains: for any trip under 4 hours where a direct train exists, the train must be preferred over a flight. First class is allowed on trips over 3 hours.
+
+Booking window: flights should be booked at least 14 days in advance whenever possible to benefit from lower fares. Last-minute bookings (under 3 days) require a short written justification.
+
+Cancellations: always prefer refundable or flexible fares for trips that are not yet confirmed. The price difference for a flexible fare is considered acceptable up to 15 percent.

@@ -1,0 +1,9 @@
+Acme Expense Rules (fictional sample document)
+
+Meal allowance: the per-day meal allowance is 60 EUR in Europe, 75 USD in North America, and 8000 JPY in Japan. Alcohol is never reimbursed.
+
+Hotels: the nightly hotel cap is 180 EUR in most European cities and 250 EUR in Paris, London, Geneva and Zurich. Breakfast should be included in the room rate when possible.
+
+Receipts: any expense above 25 EUR requires an itemised receipt. Expenses submitted more than 60 days after the trip will not be reimbursed.
+
+Ground transport: taxis are allowed for early-morning or late-night transfers. For everything else, public transport or a shared ride is expected. Personal car mileage is reimbursed at 0.35 EUR per kilometre.

@@ -1,0 +1,9 @@
+Acme AI Usage Rules (fictional sample document)
+
+Company data: never paste internal source code, customer data, contracts or unreleased information into a public AI chatbot. Use only the approved internal tools for anything confidential.
+
+Generated code: any code produced with an AI assistant must be reviewed before it reaches production, exactly like code written by a colleague. Pay extra attention to input validation and to dependencies the assistant suggests.
+
+Hallucinated packages: if an AI suggests installing a library, check that the package really exists and is widely used before adding it. Attackers register fake package names that assistants sometimes invent.
+
+Prompt injection: treat any text the model reads (a document, an email, a web page) as untrusted. A hidden instruction inside that text can try to change what the assistant does.
