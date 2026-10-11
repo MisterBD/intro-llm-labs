@@ -7,7 +7,7 @@ corporate network).
 | Lab | What | Install | Risk of breaking |
 |-----|------|---------|------------------|
 | **Lab 1** | GitHub Copilot in VS Code: structured output, model comparison, AI code audit | none (you already have it) | very low |
-| **Lab 2** | A tiny local RAG with Ollama | Ollama + 2 small models | low (tested) |
+| **Lab 2** | A tiny RAG: [Google Colab notebook](https://colab.research.google.com/github/MisterBD/intro-llm-labs/blob/master/lab2-rag-ollama/lab2_rag_colab.ipynb) by default, or locally with Ollama | none in Colab (Ollama + 2 small models locally) | low (tested) |
 | **Lab 3** | Prompt injection on Gandalf | none (web) | none |
 
 ## Before the session (5 minutes, optional but helpful)

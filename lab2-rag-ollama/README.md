@@ -6,6 +6,14 @@ both run locally through Ollama.
 
 Time: about 20 minutes.
 
+## Default path: Google Colab (nothing to install)
+
+Open the notebook in Colab: https://colab.research.google.com/github/MisterBD/intro-llm-labs/blob/master/lab2-rag-ollama/lab2_rag_colab.ipynb
+
+It runs on Google's servers, so it also works when the company network blocks the Ollama
+registry. Run cells 1, 2 and 3 once, then play with cells 4 and 5 (change the question and
+`TOP_K`). The local Ollama version below is the optional path.
+
 ## Prerequisites (do this before the session if you can)
 
 1. Install Ollama: https://ollama.com  (Windows, macOS, Linux).
