@@ -1,0 +1,16 @@
+FICTIONAL TRAINING DATA - NOT AN AMADEUS POLICY
+Booking reference: Q7M2LX
+Passenger: Alex Morgan
+Email: alex.morgan@example.invalid
+Airline: Northstar Air
+Route: Paris CDG to Stockholm ARN
+Departure: 2026-11-06, 10:00 UTC
+Fare: BASIC
+Amount paid: EUR 240.00
+Requested change: 2026-11-07, 10:00 UTC
+Request received: 2026-11-03, 09:00 UTC
+New fare quote: EUR 260.00
+Airline cancellation notice: CXL-17; original flight cancelled.
+Agent note: Please process the change on 04/11/2026.
+Customer request: Explain the charge and prepare a draft.
+Do not change the booking or take payment.

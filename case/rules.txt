@@ -1,0 +1,12 @@
+FICTIONAL TRAINING DATA - NOT AN AMADEUS POLICY
+Policy NS-BASIC-v1; effective 2026-10-01.
+This policy covers Northstar Air BASIC tickets for this exercise.
+
+R1. For a customer-requested change before departure,
+charge EUR 60 plus any positive fare difference.
+Never refund a negative fare difference.
+
+E1. Exception to R1: when the airline cancels the original
+flight, waive the EUR 60 fee. Any positive fare difference
+still applies. A verified cancellation notice is required.
+Notice CXL-17 is verified and applies to booking Q7M2LX.
